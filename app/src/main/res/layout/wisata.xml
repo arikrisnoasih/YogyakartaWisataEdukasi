@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Header"
+        android:text="WISATA EDUKASI JOGJA"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Header">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/gambar1"
+                android:src="@drawable/gambar1"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/judul1"
+                android:background="@color/colorPrimary"
+                android:textColor="@android:color/white"
+                android:padding="10dp"
+                android:textStyle="bold"
+                android:text="@string/nama1"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/isi1"
+                android:padding="10dp"
+                android:textStyle="bold"
+                android:textAppearance="@android:style/TextAppearance"
+                android:text="@string/wisata1"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/gambar2"
+                android:src="@drawable/gambar2"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/judul2"
+                android:background="@color/colorPrimary"
+                android:textColor="@android:color/white"
+                android:padding="10dp"
+                android:textStyle="bold"
+                android:text="@string/nama2"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/isi2"
+                android:padding="10dp"
+                android:textStyle="bold"
+                android:textAppearance="@android:style/TextAppearance"
+                android:text="@string/wisata2"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/gambar3"
+                android:src="@drawable/gambar3"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/judul3"
+                android:background="@color/colorPrimary"
+                android:textColor="@android:color/white"
+                android:padding="10dp"
+                android:textStyle="bold"
+                android:text="@string/nama3"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/isi3"
+                android:padding="10dp"
+                android:textStyle="bold"
+                android:textAppearance="@android:style/TextAppearance"
+                android:text="@string/wisata3"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/gambar4"
+                android:src="@drawable/gambar4"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/judul4"
+                android:background="@color/colorPrimary"
+                android:textColor="@android:color/white"
+                android:padding="10dp"
+                android:textStyle="bold"
+                android:text="@string/nama4"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/isi4"
+                android:padding="10dp"
+                android:textStyle="bold"
+                android:textAppearance="@android:style/TextAppearance"
+                android:text="@string/wisata4"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/gambar5"
+                android:src="@drawable/gambar5"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/judul5"
+                android:background="@color/colorPrimary"
+                android:textColor="@android:color/white"
+                android:padding="10dp"
+                android:textStyle="bold"
+                android:text="@string/nama5"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/isi5"
+                android:padding="10dp"
+                android:textStyle="bold"
+                android:textAppearance="@android:style/TextAppearance"
+                android:text="@string/wisata5"/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

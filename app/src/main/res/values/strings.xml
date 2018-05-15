@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">YogyakartaWisataEdukasi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nama1"><b>MUSEUM ULEN</b></string>
+    <string name="wisata1">Museum Ullen Sentalu berlokasi di kawasan wisata Kaliurang tepatnya di dalam taman Kaswargan. Di museum ini banyak dipamerkan lukisan-lukisan, foto-foto dan alat-alat kesenian tradisional khas budaya Jawa.
+Yang unik dari museum Ullen Sentalu yaitu adanya Ruang syair untuk Tineke yang merupakan ruang khusus untuk menampilkan syair-syair yang diambil dari buku kecil GRAj Koes Sapariyam (Putra Sunan PB XI Surakarta).
+Syair-syair tersebut ditulis oleh kerabat dan sahabat dari GRAj Koes Sapariyam yang akrab dipanggil Tineke.
+Pengunjung bakalan dipandu oleh seorang pemandu. Dialah yang menjelaskan seputar museum selengkap-lengkapnya. Uniknya lagi nih, setelah berkeliling, pengunjung dberi minuman ramuan tradisional yang berlabel jamu Ratu Mas. Konon resep minuman yang satu ini diracik sendiri oleh Ratu Mas, Permaisuri Sunan Pakubuwana X. Tenang aja geng, rasanya nggak pahit kok, manis asam segar gimana gitu.\n\n\n\n\n
+</string>
+    <string name="nama2"><b>MUSEUM MERAPI</b></string>
+    <string name="wisata2">Berlokasi di sebelah selatan lereng Gunung Merapi, tepatnya di Jalan Boyong Desa Hargobinangun. Museum Merapi merupakan objek wisata yang memang dirancang sebagai wahana edukasi konservasi berkelanjutan, dan pengembangan ilmu bencana gunung berapi, gempa bumi dan bencana alam lainnya.
+Di museum ini, pengunjung bakalan dijelasin tentang gunung berapi secara lengkap dengan dukungan sound effect, bahkan disertai dengan tampilan simulasi sebaran aliran magma pada saat gunung meletus.\n\n\n\n\n
+</string>
+    <string name="nama3"><b>BENTENG FORT VREDEBURG</b></string>
+    <string name="wisata3">Yang selanjutnya ada Benteng Fort Vredeburg, letaknya di sisi selatan Keraton Yogjakarta. Nggak hanya sekedar benteng loh, bangunan ini juga merupakan museum yang berisi foto-foto dan diorama mengenai peristiwa-peristiwa bersejarah di Kota Yogyakarta.
+Pengunjung bisa belajar sejarah sekaligus melihat secara langsung benda-benda peninggalan para pahlawan seperti baju militer dan perangkatnya. Di sini juga ada replika batu dan kunci inggris yang digunakan untuk membunuh para jendera Belanda.\n\n\n\n\n
+</string>
+    <string name="nama4"><b>TAMAN PINTAR</b></string>
+    <string name="wisata4">Letaknya nggak jauh dari Pusat perbelanjaan malioboro, sekitar 200m arah timur dari perempatam Nol Km. Taman pintar terdiri dari 6 wahana, setiap wahana memiliki beberapa zona yang menyediakan berbagai alat peraga. Mulai dari antariksa, sejarah, ilmu pengetahuan modern, hingga kebencanaan.
+Selain itu, di tempat ini juga tersedia berbagai media yang membuat konsep ilmu pengetahuan menjadi lebih sederhana jika dikaitkan dengan kegiatan sehari-hari. Dengan konsep kayak gitu, anak-anak bakalan lebih termotivasi untuk belajar sains dan memicu kreativitas mereka. Nggak Cuma anak-anak yang boleh berkunjung ke sini kok geng, bagai kalain yang udah berumur juga boleh. Pokoknya terbuka untuk berbagai usia deh.\n\n\n\n\n
+</string>
+    <string name="nama5"><b>MUSEUM ANAK KOLONG TANGGA</b></string>
+    <string name="wisata5">Geng, kalau kalian wisata bareng sama anak-anak, entah itu adek kandung, sepupu, keponakan, atau apalah yang tergolong anak-anak, tempat ini cocok deh. Tadi kan udah ke taman pintar nih, belajar tentang kecanggihan teknologi sains, nggak ada salahnya kalau mengunjungi museum mainan pertama dan satu-satunya di Indonesia yaitu Museum Anak Kolong.
+Berlokasi di di lantai dua gedung Taman Budaya Yogyakarta tepatnya belakang Taman Pintar. Di museum ini terdapat ratusan mainan tradisional buatan tangan serta objek yang berkaitan dengan dunia anak dari seluruh wilayah Indonesia serta Mancanegara.
+Zaman sekarang yang namanya mainan tradisional udah hampir terlupakan dengan sempurna geng. So, museum ini layak banget kalian kunjungi. Kalian bisa menambah wawasan dan juga mengenalkan berbagai macam permainan tradional kepada anak-anak. Tahu sendiri kan kids zaman now kebanyakan mainnya pasti gadget. Jangan sampai mereka nggak kenal sama permainan tradisonal. Yuk, lestarikan permainan tradisional.\n\n\n\n\n
+</string>
+
+
+
+    <string name="about"><center><b>TENTANG APLIKASI</b></center></string>
+    <string name="isi">Wisata Edukasi Yogyakarta merupakan aplikasi yang dikembangkan oleh developer dalam rangka memenuhi Tugas Besar Kelompok Mata Kuliah Aplikasi Bergerak.
+    Melalui aplikasi ini diharapkan dapat dijadikan sebagai media edukasi yang berdasarkan konsep bermain sambil belajar.</string>
+
+
+
+</resources>

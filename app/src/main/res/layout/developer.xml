@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Header"
+        android:text="TENTANG DEVELOPER"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/d1"
+        android:layout_below="@+id/Header"
+        android:text="1.IRSA YUNIKA SARI(3163111080)"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/d2"
+        android:layout_below="@+id/d1"
+        android:text="2. EGA WULANDARI(3163111081)"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/d3"
+        android:layout_below="@+id/d2"
+        android:text="3. ARI KRISNO ASIH(3163111083)"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/d4"
+        android:layout_below="@+id/d3"
+        android:text="4. WIWIK KRISTIANTI(3163111084)"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/d5"
+        android:layout_below="@+id/d4"
+        android:text="5. RIKA WAHYUNINGRUM(3163111085)"/>
+    </LinearLayout>
